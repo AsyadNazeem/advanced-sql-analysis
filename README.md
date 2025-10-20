@@ -164,17 +164,6 @@ Add screenshots of query outputs here for better visualization.
 
 This project is open-source and free to use for learning and demonstration purposes.
 
-
----
-
-✅ **Next Step:**  
-
-- Place your `.sql` files into a `sql/` folder.  
-- Add optional screenshots to `images/`.  
-- Push to GitHub with this README.md.  
-
----
-
 If you want, I can also **add a “Project Demo / Screenshots Section” with images of outputs** in README so it looks like a professional portfolio piece.  
 
 Do you want me to do that?
