@@ -32,7 +32,7 @@ This project demonstrates advanced SQL techniques for analyzing employee data, p
 ---
 
 ## 📂 Project Structure
-
+```
 advanced-sql-analysis/
 │
 ├─ README.md
@@ -41,6 +41,7 @@ advanced-sql-analysis/
 │ ├─ employee_salary.sql # Table creation + inserts
 │ └─ analysis_queries.sql # All analysis queries, procedures, triggers, events
 └─ images/ # Optional: Screenshots of query outputs
+```
 
 ---
 
