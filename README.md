@@ -33,6 +33,7 @@ This project demonstrates advanced SQL techniques for analyzing employee data, p
 
 ## 📂 Project Structure
 
+advanced-sql-analysis/ ├── sql/ │ ├── employee_demographics.sql # Table creation and insert script for employee demographics │ ├── employee_salary.sql # Table creation and insert script for salary data │ ├── parks_departments.sql # Table creation and insert script for department data │ └── analysis_queries.sql # Contains all example queries (1-4) ├── automation/ │ ├── stored_procedures.sql # Contains Stored Procedure example (5) │ ├── triggers.sql # Contains Trigger example (6) │ └── events.sql # Contains Event example (7) ├── images/ # Directory for optional screenshot outputs └── README.md # This file
 
 ---
 
