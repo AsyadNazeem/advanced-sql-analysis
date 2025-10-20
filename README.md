@@ -167,9 +167,9 @@ Department-based salary comparison highlights high earners and salary gaps.
 
 📸 Optional Screenshots
 
-| Ranking Output | Rolling Aggregates | Department Comparison |
+| Employee Ranking | CTEs: Average Salary & High Earners | Trigger & Event Automation |
 | :---: | :---: | :---: |
-| ![Ranking Query Output](SQL1.png) | ![Rolling Total Query Output](SQL2.png) | ![Department Comparison Output](SQL3.png) |
+| ![Employee Ranking by Gender](SQL1.png) | ![Average Salary and High Earners using CTEs](SQL2.png) | ![Trigger and Event Automation Examples](SQL3.png) |
 
 🔖 License
 
