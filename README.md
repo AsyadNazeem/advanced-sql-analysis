@@ -167,7 +167,9 @@ Department-based salary comparison highlights high earners and salary gaps.
 
 📸 Optional Screenshots
 
-Add screenshots of query outputs here for better visualization.
+| Ranking Output | Rolling Aggregates | Department Comparison |
+| :---: | :---: | :---: |
+| ![Ranking Query Output](SQL1.png) | ![Rolling Total Query Output](SQL2.png) | ![Department Comparison Output](SQL3.png) |
 
 🔖 License
 
